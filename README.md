@@ -8,7 +8,7 @@ erptoy is a full bag of LEGO bricks to build or reimagine your original vision.
 
 Most business software is built to extract value: more fees, more lock-in, more reports nobody reads. erptoy is built to create value for everyone the business touches. Customers, owners, suppliers, and the people on the lowest pay who show up day after day.
 
-"Good" here means good for all stakeholders, not just shareholders.
+"Good" here means good in the whole sense, for anyone connected to your project.
 
 ## Where it comes from
 
